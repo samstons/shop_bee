@@ -1,0 +1,4 @@
+<pre name="code" class="html">
+$ git add text.txt
+$ git commit -m "add a test' file in here"
+
